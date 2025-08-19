@@ -129,7 +129,7 @@ SOFTWARE.
 ---
 
 ## Apoie o projeto
-Se o projeto te ajudou, considere pagar um café! Sua contribuição cobre custos (servidor, domínio) e me ajuda a manter e melhorar novas funções. Obrigado! 🙌
+Se o projeto te ajudou, considere pagar um café! Sua contribuição cobre custos (tempo é dinheiro hahaha) e me ajuda a manter e melhorar novas funções. Obrigado! 🙌
 
 - [Doar via PayPal](https://www.paypal.com/donate/?hosted_button_id=3VYZMCWGZRFML)
 - [Buy Me a Coffee](https://buymeacoffee.com/johnlen7)
